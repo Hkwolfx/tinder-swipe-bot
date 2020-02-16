@@ -20,7 +20,7 @@ in (venv)  -> bot.login()
 
 
                  ...if bugging, type bot.autoswipe() in (venv) console.
-                 ...if the bot breaks, just reload bot.autoswipe().
+                 ...if the bot breaks, reload bot.autoswipe().
 
 in (venv) ->  python -i tinder_bot.py  // To exec the script 
 
