@@ -22,7 +22,7 @@ in (venv)  -> bot.login()
                  ...if bugging type bot.autoswipe() in (venv) console.
                  ...if the bot breaks juste reload bot.autoswipe().
 
-in (venv) -> (infolder) python -i tinder_bot.py
+in (venv) ->  python -i tinder_bot.py  // To access in pyhton and execute commands with bot.$YOURFUNCTION //
 
 
 please add more features to this, would be awesome to see what you can come up 
