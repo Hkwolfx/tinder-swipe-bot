@@ -1,11 +1,13 @@
-to run:
+To run:
  - download chromedriver, unzip, move to `/usr/local/bin` (mac os / linux)
   ~ sudo mv ~/Téléchargements/chromedriver_linux64/chromedriver /usr/local/bin
   - sudo apt install virtualenv
   - sudo apt install python3
   - virtualenv venv
-  - `pip install selenium`
-  VSC will implement missing extensions.
+     -> " type : source venv/bin/activate "
+     -> `pip install selenium`
+     -> code .
+  VSC will implement missing extensions.    
   
 
 create a secrets.py file with variables:
