@@ -19,7 +19,7 @@ create a secrets.py file with variables:
 in (venv)  -> bot.login()
 
 
-                 ...if bugging type bot.autoswipe() in (venv) console.
+                 ...if bugging, type bot.autoswipe() in (venv) console.
                  ...if the bot breaks juste reload bot.autoswipe().
 
 in (venv) ->  python -i tinder_bot.py  // To exec the script 
