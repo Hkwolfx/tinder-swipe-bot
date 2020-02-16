@@ -23,6 +23,9 @@ in (venv)  -> bot.login()
                  ...if the bot breaks juste reload bot.autoswipe().
 
 in (venv) ->  python -i tinder_bot.py  // To exec the script 
+
+
+
 in Bash/zsh ->  source venv/bin/activate // To pass in venv "view"
 
 
