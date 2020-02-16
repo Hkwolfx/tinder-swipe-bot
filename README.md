@@ -22,7 +22,8 @@ in (venv)  -> bot.login()
                  ...if bugging type bot.autoswipe() in (venv) console.
                  ...if the bot breaks juste reload bot.autoswipe().
 
-in (venv) ->  python -i tinder_bot.py  // To exec the script // To enter venv mode use : source venv/bin/activate //
+in (venv) ->  python -i tinder_bot.py  // To exec the script 
+in Bash/zsh ->  source venv/bin/activate // To pass in venv "view"
 
 
 please add more features to this, would be awesome to see what you can come up 
